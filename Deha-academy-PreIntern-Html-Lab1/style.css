@@ -1,0 +1,31 @@
+.bai02{
+    text-align: center;
+    color: #006600;
+}
+.yeucau{
+    text-decoration:underline;
+    color: #0000FF;
+}
+.thietke{
+    font-weight:bolder;
+}
+.me{
+    text-align: center;
+    background-color: #FECFFD;
+    font-weight: bolder;
+    color: #FF3399;
+}
+.tho{
+    text-align: center;
+    background-color: #FFFFCC;
+    font-style: italic;
+}
+.tho1{
+    color: #0000FF;
+}
+.tho2{
+color: chocolate;
+}
+.tho3{
+    color: #006600;
+}
